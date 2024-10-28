@@ -1,4 +1,4 @@
-Gemma 2 Model - Finetuning to make chatbot for 20 questions
+<h1>Gemma 2 Model - Finetuning to make chatbot for 20 questions</h1>
 
 #### There are two versions of the ipynb files. The first version asks questions in a form that corresponds to the categories present in the dataset, making it more tailored to the dataset.  I want to change for more information 20questions. So, the second version, 20 questions.ipynb, operates independently of the dataset and follows a traditional 20 Questions game format. It selects a category and narrows down the possibilities through relevant yes-or-no questions, making it more suitable as a chatbot for the familiar 20 Questions game.
 
